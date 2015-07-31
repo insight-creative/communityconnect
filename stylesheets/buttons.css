@@ -1,0 +1,10 @@
+/* line 1, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/buttons.scss */
+.btn-primary {
+  font-size: 1rem;
+  background-color: #1972BA;
+  border-bottom: 3px solid #0A547B;
+  box-shadow: 0px 2px 1px rgba(0, 81, 123, 0.2); }
+
+/* line 7, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/buttons.scss */
+.btn-wide {
+  width: 100%; }

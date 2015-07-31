@@ -1,0 +1,44 @@
+/*
+ * Main Nav
+ */
+/* line 6, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/navbar.scss */
+.navbar-default {
+  background-color: #F2EFED;
+  border-bottom: 0;
+  border-radius: 0; }
+
+/* line 11, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/navbar.scss */
+.navbar-brand img {
+  max-width: 200px; }
+
+/* line 14, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/navbar.scss */
+.navbar-default .navbar-nav li {
+  margin-bottom: 0; }
+
+/* line 17, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/navbar.scss */
+.navbar-default .navbar-nav li a {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: .85rem; }
+
+/* line 22, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/navbar.scss */
+.navbar-default .navbar-nav .dropdown li a {
+  padding-top: 8px;
+  padding-bottom: 8px; }
+
+/*
+ * Footer nav
+ */
+/* line 31, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/navbar.scss */
+.navbar-footer {
+  margin-top: 3rem;
+  background-color: #FFF; }
+
+/* line 35, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/navbar.scss */
+.navbar-footer .navbar-nav li a {
+  color: #1972BA; }
+
+/* line 38, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/navbar.scss */
+.navbar-footer .navbar-nav li a:hover {
+  color: #1972BA;
+  text-decoration: underline; }

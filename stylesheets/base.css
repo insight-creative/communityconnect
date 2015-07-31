@@ -1,0 +1,14 @@
+/* line 1, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/base.scss */
+.login {
+  padding-top: 2rem;
+  background-color: #F2EFED; }
+
+/* line 5, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/base.scss */
+img {
+  width: 100%;
+  height: auto; }
+
+/* Helper class to center a column div horizontally */
+/* line 10, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/base.scss */
+.center-block {
+  float: none; }

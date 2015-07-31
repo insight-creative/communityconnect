@@ -1,0 +1,12 @@
+/* line 1, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/card.scss */
+.card {
+  padding: 2rem;
+  background-color: #FFF; }
+
+/* line 5, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/card.scss */
+.card-transparent {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  background-color: transparent; }

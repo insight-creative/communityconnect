@@ -1,0 +1,15 @@
+/* line 1, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/form.scss */
+form {
+  margin-top: 1rem;
+  margin-bottom: 1rem; }
+
+/* line 5, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/form.scss */
+.form-primary {
+  margin-top: 2rem; }
+
+/* line 8, /Users/kevinmcgillivray/Sites/cc-frontend/source/stylesheets/form.scss */
+.form-primary .form-control {
+  border: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #e7e7e7; }
